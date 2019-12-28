@@ -8,6 +8,7 @@ hr { border: none; border-bottom: 1px solid lightgrey; width: 95%; }
 img { position: absolute; left: 64%; margin-top: 5%; width: 30%; }
 blockquote { border-left: 3px solid #eee; padding: 0 15px; font-weight: 400; font-style: italic; }
 blockquote i { font-style: normal; }
+blockquote.big { padding: 15px; font-size: 9pt; line-height: 1.2rem; margin: 0 -15px; border: none; background: #ffffd8; }
 table { font-size: 10pt; }
 
 /* for thinner windows */
